@@ -1,3 +1,7 @@
+I wanted to rename the repo, so I made renamed copy here: https://github.com/jhhr/simple_anki_ai_prompts
+This will be archived.
+
+---
 Simple Anki addon for some custom AI prompts I use.
 - Provides a framework of functions to use for adding new prompts.
 - Prompts are available in right-click menu of notes in Anki's card browser
